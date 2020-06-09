@@ -1,0 +1,7 @@
+FIN; Finland
+EST; Estonia
+H; Hungary
+BD; Bangladesh
+GB; United Kingdom
+IRL; Ireland
+S; Sweden
